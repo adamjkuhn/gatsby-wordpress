@@ -2,7 +2,7 @@
   "name": "gatsby-starter-wordpress",
   "description": "Gatsby v2 starter for WordPress",
   "version": "0.1.0",
-  "author": "GatsbyCentral.com",
+  "author": "KongHQ.com",
   "dependencies": {
     "bulma": "^0.7.5",
     "gatsby": "^2.18.1",
